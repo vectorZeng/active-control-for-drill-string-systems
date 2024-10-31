@@ -5,7 +5,9 @@
 - 状态观测器控制
 - PID控制
 
-效果还看得过去
+![image](https://github.com/user-attachments/assets/8e8400f9-888e-44ec-8319-79d37b384c53)
+
+效果还看得过去：
 
 ![屏幕截图 2024-10-29 215608](https://github.com/user-attachments/assets/10f2d866-5a71-441b-9f70-d98ef09aebf7)
 
