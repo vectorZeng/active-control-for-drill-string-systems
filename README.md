@@ -9,7 +9,12 @@
 
 效果还看得过去：
 
+转盘转速控制：
 ![屏幕截图 2024-10-29 215608](https://github.com/user-attachments/assets/10f2d866-5a71-441b-9f70-d98ef09aebf7)
+
+钻头速度控制：
+![image](https://github.com/user-attachments/assets/b95d8bae-54d4-415b-b309-cbea44e69b72)
+
 
 # Active control for drill-string systems
 It's well known that stick-slip vibrations existing in drill-string systems are extremely severe during drilling and are expected to be mitigated or eliminated. Considering this practical problem, we present a possible solution by using observer-based tracking controller, which only requires the top measurements and is easy to implement. This repository provides the code of the conference paper "Observer-Based Tracking Control for Suppressing Stick-Slip Vibration of Drillstring System". We hope this can provide help to people who are working on the related fields.
